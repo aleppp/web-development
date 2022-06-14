@@ -1,2 +1,2 @@
 # web-development
-Personal repo to stored codes throughout web development course
+Personal repo to store codes throughout web development course
